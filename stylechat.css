@@ -1,0 +1,26 @@
+.box{
+    border: 8px;
+    border-color: cadetblue;
+    border-style: solid;
+    height: 500px;
+    width:500px;
+    margin-top: 200px;
+    margin-left: 500px;
+    background-color: cornsilk;
+    opacity: 0.9;
+}
+.inner{
+    border-top: 10px;
+    border-bottom: 10px;
+    background-color: cadetblue;
+    color: white;
+    font-size: larger;
+    text-align: center;
+}
+
+.logout{
+    float:right;
+}
+
+
+#submit { width: 70px; }
